@@ -1,0 +1,32 @@
+﻿//------------------------------------------------------------
+// Game Framework
+// Copyright © 2013-2019 Jiang Yin. All rights reserved.
+// Homepage: http://gameframework.cn/
+// Feedback: mailto:jiangyin@gameframework.cn
+//------------------------------------------------------------
+
+namespace StarForce
+{
+    /// <summary>
+    /// 界面编号。
+    /// </summary>
+    public enum UIFormId
+    {
+        Undefined = 0,
+        /// <summary>
+        /// 主菜单。
+        /// </summary>
+        MenuForm = 1,
+        
+        /// <summary>
+        /// 进入游戏菜单
+        /// </summary>
+        MenuPage = 2,
+        
+        /// <summary>
+        /// 战斗页面
+        /// </summary>
+        BattlePage = 3,
+
+    }
+}

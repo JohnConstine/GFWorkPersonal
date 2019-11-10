@@ -1,0 +1,8 @@
+﻿#	活跃度奖励表			
+#	Id	Activity	AwardId	AwardNum
+#	int	int	int	int
+#	编号	活跃度需求	奖励编号	奖励数量
+	1	25	1	100
+	2	50	4	25
+	3	75	3	20
+	4	100	1	300
